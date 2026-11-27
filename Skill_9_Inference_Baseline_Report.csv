@@ -1,0 +1,9 @@
+Metric,Value
+mAP@0.5,0.6055903430603293
+mAP@0.5:0.95,0.44705528350479173
+Average Latency (ms),186.2837912000089
+Minimum Latency (ms),131.04115800001637
+Maximum Latency (ms),320.1191230000404
+Throughput (images/sec),4.786480604678093
+Allocated GPU Memory (MB),0.0
+Peak GPU Memory (MB),0.0
